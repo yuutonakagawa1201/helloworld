@@ -1,6 +1,6 @@
 package com.exeample;
 
-public class helloworld {
+public class HelloWorld {
     public static void main(String[] args) {
         for (int i = 0; i < 15; i++)
             if (i < 11) {
